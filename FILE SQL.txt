@@ -1,0 +1,10 @@
+CREATE TABLE phieu1(
+id int PRIMARY KEY AUTO_INCREMENT,
+tensp varchar(30) NOT NULL,
+loaisp varchar(30) NOT NULL,
+trangthai varchar(30) NOT NULL,
+idkho varchar(30) NOT NULL,
+idcuahang varchar(30) NOT NULL,
+soluong int(11) NOT NULL,
+ngaythang varchar(30) NOT NULL
+)
